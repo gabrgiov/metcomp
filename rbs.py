@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 b = 1 # parametro de impacto
 
-posin1 = (-10, b)
+posin1 = (-10, b) 
 posin2 = (0, 0)
 velin1 = (.1,0)
 velin2 = (0,0)
